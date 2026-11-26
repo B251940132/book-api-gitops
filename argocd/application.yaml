@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_ID/book-api-gitops.git
+    repoURL: https://github.com/B251940132/book-api-gitops.git
     targetRevision: HEAD
     path: overlays/dev
   destination:
