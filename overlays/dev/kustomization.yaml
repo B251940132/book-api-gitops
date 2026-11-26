@@ -7,4 +7,4 @@ resources:
 images:
   - name: book-api
     newName: amrakitty/book-api
-    newTag: "934437a"
+    newTag: "5004ab1"
