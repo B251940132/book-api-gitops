@@ -6,5 +6,5 @@ resources:
   - ../../base
 images:
   - name: book-api
-    newName: YOUR_DOCKERHUB_ID/book-api
+    newName: amrakitty/book-api
     newTag: "latest"
